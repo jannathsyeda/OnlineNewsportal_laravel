@@ -1,0 +1,82 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.navbar ul li a{
+	font-size: 17px;
+	color: white! important;
+	font-weight: bold;
+  }
+  .navbar ul li a:hover{
+	color: grey! important;
+  }
+
+ 
+.newspapper-name{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	padding: 15px 0px 5px 0px;
+}
+
+#marquee h2{
+	text-align: center;
+	color: red;
+	font-weight: bold;
+
+}
+
+#latest-news{
+	padding: 40px 0px;
+}
+
+#latest-news .card{
+	padding: 8px;
+	margin-bottom: 25px;
+}
+#latest-news .card:hover{
+	box-shadow: 6px 5px 5px rgb(133, 73, 73);
+}
+
+#latest-news h2{
+	margin: 0 auto;
+	color: teal;
+	font-weight: 600;
+	padding: 25px;
+}
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+	padding-top: 75px; 
+	background: linear-gradient(to right top, #09030f, #0c0613, #0e0a17, #0f0d1b, #10101e)!important;
+  
+  }
+  #footer .head{
+	padding-bottom: 40px;
+	color: #fff;
+	font-weight: 600;
+	font-family: 'Lalezar', cursive;
+  
+  }
+  #footer p{
+	color: #fff;
+  }
+  
+  #footer .row .col-md-3 .img-row{
+	  padding: 25px 0px;
+	}
