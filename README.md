@@ -1,25 +1,40 @@
-## About The Newsportal
-This is a newportal website.Here user can see all latest news,breaking news,Differet categories of news, can search by date of any news.
-For login multi auth email verification is applayed.Subscribers get email by notification.
+## About This Project
+Today the world totally relays upon the electronic media to it's every day adventure. Most of the people get the information about the world around through the internet which is fast, accessible, and reliable media. This news portal is a service introduced to meet the above requirement and to make the people updated about the news, views, searching news, breaking news , news details and latest headlines in different fields also the new inventions around the world.
 
 
-##  Activities
+## **Technology: Html, CSS, Bootstrap, JavaScript, PHP, Laravel Framework
+## **Database: MySQL
 
-<h2>Admin</h2>
-<li>Admin Pannel(Dashboard, News List,Category,pending list,All subscribers,All Author,signout)</li>					
-<li>Admin dashboar(all news list ,all authors,all categories,total pending news numbers)	</li>					
-<li>admin news list(Add news,approve author pending news,delete news,update and edit news,select any new for Breaking news )	</li>					
-<li>admin category(add category,show categories table)	</li>					
-<li>admin pending list(all pending news and every pending news details)	</li>					
-<li>admin subscribers(all subscribers list and entry  )</li>						
-<li>admin authors(all authors list and entry )</li>						
-<li>signout	</li>
 
-<h2>Author	</h2>					
-<li>Author Pannel(Dashboard,News List,signout)			</li>			
-<li>Author dashboar(count all author news,count total authors,count categories,all are dynamic)		</li>				
-<li>author news list(Add news,show news approved or not, delete news,update and edit news,image size matter,authors name)	</li>					
-<li>signout		</li>
+## Core Features
+** Notification System
+** Email Verification
+** News view count
+** Subscriber
+** Search
+** Date wise data handling
 
-<h2>user</h2>	
-<li>user pannel(can see latest news, breaking news, 3 categories of news sectors( bangladesh, sports,entertainment news),footer,header),search field ,can subscribe and get notification by email	</li>										
+
+<h2>Admin Panel</h2>
+<li>Admin can see all news, authors, categories, all pending news, view count of a single news</li>
+<li>Admin has the ability to add news, approve author pending news, delete news, update and edit news, select any news for breaking news.</li>					
+<li>Admin has the ability to add category, show categories table.</li>					
+<li>Admin has the ability to handle all pending news and ability to approve them.</li>					
+<li>Admin has the ability to handle all subscribers list.</li>						
+<li>Admin can handle all authors and his activity.</li>						
+<li>Admin can sign in/sign out.</li>
+
+
+
+<h2>Author Panel</h2>					
+
+<li>Author can add news.</li>			
+<li>Author can see his own created news(author panel), total authors number, categories number, all are dynamic.</li>				
+<li>Author can add news, show news approved or not, delete news, update and edit news.</li>					
+<li>Author can sign in/sign out.</li>
+
+
+<h2>Guest User</h2>	
+
+<li>Guest user can see latest news, breaking news, 3 categories of news sectors(bangladesh, sports, entertainment news), search field, can subscribe and get notification by email.</li>
+
