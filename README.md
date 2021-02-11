@@ -22,4 +22,4 @@ For login multi auth email verification is applayed.
 <li>signout		</li>
 
 <h2>user</h2>	
-<li>user pannel(can see latest news, breaking news, 3 categories of news sectors( bangladesh, sports,entertainment news),footer,header),search field	</li>										
+<li>user pannel(can see latest news, breaking news, 3 categories of news sectors( bangladesh, sports,entertainment news),footer,header),search field ,can subscribe and get notification by email	</li>										
