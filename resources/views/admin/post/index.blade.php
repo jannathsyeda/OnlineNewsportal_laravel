@@ -59,6 +59,7 @@
                                 <a href="{{ route('admin.post.edit',$post->id) }}" class="btn btn-info waves-effect">
                                     Edit
                                 </a>
+                                
 
 <button class="btn btn-danger waves-effect" type="button" onclick="deletePost({{ $post->id }})">
     Delete
