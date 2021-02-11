@@ -1,6 +1,6 @@
 ## About The Newsportal
 This is a newportal website.Here user can see all latest news,breaking news,Differet categories of news, can search by date of any news.
-For login multi auth email verification is applayed.
+For login multi auth email verification is applayed.Subscribers get email by notification.
 
 
 ##  Activities
